@@ -27,7 +27,7 @@ Funciona con una idea suelta, un guion escrito o la transcripción de un vídeo 
 
 **Opción 1: que Claude lo instale por ti.** Abre una conversación nueva en Claude y pega esto, cambiando la URL por la de este repositorio:
 
-> Instala este skill de Claude por mí. El archivo SKILL.md está en este repositorio de GitHub: [URL de este repositorio]
+> Instala este skill de Claude por mí. El archivo SKILL.md está en este repositorio de GitHub: https://github.com/oilundain/saladeguionistas
 > Déjalo listo para usarlo y guíame en lo que necesites.
 
 **Opción 2: descarga el archivo.**
