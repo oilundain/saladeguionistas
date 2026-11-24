@@ -49,4 +49,4 @@ Para mejores resultados indica la fase (idea, guion o ya grabado) y, si la tiene
 
 ## Créditos
 
-Adaptado del skill [LLM Council](https://github.com/aiwithremy/claude-skills-llm-council) de Ole Lehmann (compartido por aiwithremy), que a su vez se basa en la metodología [LLM Council](https://github.com/karpathy/llm-council) de Andrej Karpathy. Esta versión sustituye los cinco advisors genéricos por cinco guionistas especializados en vídeo corto.
+Adaptado del skill [LLM Council](https://github.com/aiwithremy/claude-skills-llm-council) de Ole Lehmann, que a su vez se basa en la metodología [LLM Council](https://github.com/karpathy/llm-council) de Andrej Karpathy. Esta versión sustituye los cinco advisors genéricos por cinco guionistas especializados en vídeo corto.
